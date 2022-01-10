@@ -8,6 +8,8 @@
 /UnityGenerated/
 /Library/
 /Build*/
+/Logs/
+/UserSettings/
  
 ExportedObj/
 *.svd
@@ -23,6 +25,7 @@ ExportedObj/
 *.mdb
  
 _ReSharper*
+.idea*
 
 /Assets/UnityVS*
 .vscode
